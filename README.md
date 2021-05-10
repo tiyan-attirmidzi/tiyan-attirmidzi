@@ -13,8 +13,6 @@ I'am a Backend (on the way to be a FullStack) Developer from Kendari, Indonesia.
     </a>
 </div>
 
-<br />
-
-<div align="center">
+<div align="center" style="margin-top: 1%">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiyanattirmidzi&show_icons=true&theme=radical" alt="Tiyan Attirmidzi's wakatime stats" />
 </div>
