@@ -9,11 +9,9 @@ I'am a Backend (on the way to be a FullStack) Developer from Kendari, Indonesia.
 </div>
 
 <div align="center">
-   <p>
-        <img align="left" style="margin-top: 1.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyan-attirmidzi&show_icons=true&theme=radical&layout=compact" alt="Tiyan Attirmidzi's github most used" />
-   </p>
-   <p>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=tiyanattirmidzi&show_icons=true&theme=radical" alt="Tiyan Attirmidzi's wakatime stats" />
-   </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyan-attirmidzi&show_icons=true&theme=radical&layout=compact" alt="Tiyan Attirmidzi's github most used" />
 </div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiyanattirmidzi&show_icons=true&theme=radical" alt="Tiyan Attirmidzi's wakatime stats" />
+</div>
