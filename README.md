@@ -1,6 +1,6 @@
 # Hello, I'm Tiyan Attirmidzi. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'am a Backend (on the way to be a FullStack) Developer from Kendari, Indonesia.
+I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 
 ### Github & Wakatime Stats
 
