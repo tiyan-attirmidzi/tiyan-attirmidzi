@@ -16,5 +16,5 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 <p></p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiyanattirmidzi&show_icons=true&theme=radical" alt="Tiyan Attirmidzi's wakatime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=tiyanattirmidzi&show_icons=true&theme=react" alt="Tiyan Attirmidzi's wakatime stats" />
 </div>
