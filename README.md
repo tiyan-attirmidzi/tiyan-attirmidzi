@@ -6,7 +6,7 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 
 <div align="center">
     <a href="#">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&show_icons=true&theme=react&count_private=true" alt="Tiyan Attirmidzi's github stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" alt="Tiyan Attirmidzi's github stats" />
     </a>
     <a href="#">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyan-attirmidzi&show_icons=true&theme=react&layout=compact" alt="Tiyan Attirmidzi's github most used" />
