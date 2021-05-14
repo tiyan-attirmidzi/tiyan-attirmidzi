@@ -5,7 +5,7 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 ### Github & Wakatime Stats
 
 <div align="center">
-    <a href="#">
+    <a href="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" target="_BLANK">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" alt="Tiyan Attirmidzi's github stats" />
     </a>
     <a href="#">
