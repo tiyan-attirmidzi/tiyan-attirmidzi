@@ -8,7 +8,7 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
     <a href="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" target="_BLANK">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" alt="Tiyan Attirmidzi's github stats" />
     </a>
-    <a href="#">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyan-attirmidzi&show_icons=true&theme=react&layout=compact">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyan-attirmidzi&show_icons=true&theme=react&layout=compact" alt="Tiyan Attirmidzi's github most used" />
     </a>
 </div>
