@@ -5,7 +5,7 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 ### Follow My Social Media
 <p align='center'>
     <a href="https://twitter.com/onggolll"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-</p>
+    <a href="https://instagram.com/tiyan-attirmidzi"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
 
 ### Github & Wakatime Stats
