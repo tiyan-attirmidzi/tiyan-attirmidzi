@@ -8,7 +8,7 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
         <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/twitter.svg?raw=true">
     </a>
     &nbsp;&nbsp;
-    <a href="https://instagram.com/tiyan-attirmidzi" target="_blank">
+    <a href="https://instagram.com/tiyan.attirmidzi" target="_blank">
         <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/instagram.svg?raw=true">
     </a>
     &nbsp;&nbsp;
