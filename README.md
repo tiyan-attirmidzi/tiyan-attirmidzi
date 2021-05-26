@@ -4,10 +4,10 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 
 ### Follow My Social Media
 <p align='center'>
-    <a href="https://twitter.com/onggolll"><img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/twitter.svg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/tiyan-attirmidzi"><img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/tiyan-attirmidzi-223475156/"><img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/linkedin.svg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://dev.to/tiyanattirmidzi"><img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/devto.svg?raw=true"></a>
+    <a href="https://twitter.com/onggolll" target="_blank"><img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/twitter.svg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/tiyan-attirmidzi" target="_blank"><img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://dev.to/tiyanattirmidzi" target="_blank"><img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/devto.svg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/tiyan-attirmidzi-223475156/" target="_blank"><img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/linkedin.svg?raw=true"></a>
 
 ### Github & Wakatime Stats
 
