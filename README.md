@@ -21,7 +21,7 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
     </a>
     &nbsp;&nbsp;
     <a href="mailto:tiyanattirmidzi20@gmail.com" target="_blank">
-        <img height="30" src="">
+        <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/gmail.svg?raw=true">
     </a>
 </div>
 
