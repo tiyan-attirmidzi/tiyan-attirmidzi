@@ -23,6 +23,10 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
     <a href="mailto:tiyanattirmidzi20@gmail.com" target="_blank">
         <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/gmail.svg?raw=true">
     </a>
+    &nbsp;&nbsp;
+    <a href="https://tiyan-attirmidzi.github.io" target="_blank">
+        ini web saya
+    </a>
 </div>
 
 ### Github & Wakatime Stats
