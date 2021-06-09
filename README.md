@@ -16,7 +16,7 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
         <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/devto.svg?raw=true">
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/tiyan-attirmidzi-223475156/" target="_blank">
+    <a href="https://www.linkedin.com/in/tiyan-attirmidzi-223475156" target="_blank">
         <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/linkedin.svg?raw=true">
     </a>
     &nbsp;&nbsp;
