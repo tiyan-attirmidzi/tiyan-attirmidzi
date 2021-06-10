@@ -1,4 +1,4 @@
-# Hello, I'm Tiyan Attirmidzi. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Tiyan Attirmidzi. <img src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/gif/wave.gif?raw=true" width="30px">
 
 I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 
