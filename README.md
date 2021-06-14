@@ -2,7 +2,7 @@
 
 I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 
-### Follow My Social Media
+### Reach Me At
 <p align='center'>
     <a href="https://twitter.com/onggolll" target="_blank">
         <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/twitter.svg?raw=true">
