@@ -1,4 +1,6 @@
-# Hello, I'm Tiyan Attirmidzi. <img src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/gif/wave.gif?raw=true" width="30px">
+<!-- ========= Start Markdown ========= -->
+
+# Hello, I'm Tiyan Attirmidzi. ![waveGIF](https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/gif/wave.gif?raw=true)
 
 I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 
@@ -55,3 +57,13 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
         <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=tiyanattirmidzi&show_icons=true&theme=react" alt="Tiyan Attirmidzi's wakatime stats" />
     </a>
 </div>
+
+<!-- ========= End Markdown ========= -->
+
+<!-- ========= Start Style ========= -->
+
+<style>
+    img[alt=waveGIF] { width: 30px; }
+</style>
+
+<!-- ========= End Style ========= -->
