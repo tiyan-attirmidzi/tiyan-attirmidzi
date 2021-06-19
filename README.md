@@ -43,6 +43,14 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 <p></p>
 
 <div align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=tiyan-attirmidzi&theme=react">
+        <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=tiyan-attirmidzi&theme=react" alt="Tiyan Attirmidzi's github streak stats" />
+    </a>
+</div>
+
+<p></p>
+
+<div align="center">
     <a href="https://github-readme-stats.vercel.app/api/wakatime/?username=tiyanattirmidzi&show_icons=true&theme=react">
         <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=tiyanattirmidzi&show_icons=true&theme=react" alt="Tiyan Attirmidzi's wakatime stats" />
     </a>
