@@ -1,6 +1,6 @@
 <!-- ========= Start Markdown ========= -->
 
-# Hello, I'm Tiyan Attirmidzi. ![waveGIF](https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/gif/wave.gif?raw=true)
+# Hello, I'm Tiyan Attirmidzi. <img src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/gif/wave.gif?raw=true" width="30px">
 
 I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 
@@ -59,11 +59,3 @@ I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 </div>
 
 <!-- ========= End Markdown ========= -->
-
-<!-- ========= Start Style ========= -->
-
-<style>
-    img[alt=waveGIF] { width: 30px; }
-</style>
-
-<!-- ========= End Style ========= -->
