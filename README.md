@@ -4,6 +4,8 @@
 
 I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
 
+- 💼 I'm currently freelance in several companies
+
 ### Reach Me At
 <p align='center'>
     <a href="https://twitter.com/onggolll" target="_blank">
