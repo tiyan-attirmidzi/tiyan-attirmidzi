@@ -4,7 +4,7 @@
 
 ### About Me
 - ✨ I'm a Backend (on the way to be a Fullstack) Developer
-- 💼 I'm currently freelance in several companies
+- 💼 I'm Currently Freelance in Several Companies
 
 ### Reach Me At
 <p align='center'>
