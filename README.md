@@ -2,8 +2,7 @@
 
 # Hello, I'm Tiyan Attirmidzi. <img src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/gif/wave.gif?raw=true" width="30px">
 
-I'm a Backend (on the way to be a Fullstack) Developer from Kendari, Indonesia.
-
+### About Me
 - ✨ I'm a Backend (on the way to be a Fullstack) Developer
 - 💼 I'm currently freelance in several companies
 
