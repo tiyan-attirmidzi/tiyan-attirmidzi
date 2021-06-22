@@ -1,8 +1,9 @@
 <!-- ========= Start Markdown ========= -->
 
-# Hello, I'm Tiyan Attirmidzi. <img src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/gif/wave.gif?raw=true" width="30px">
+# Hi, I'm Tiyan Attirmidzi. <img src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/gif/wave.gif?raw=true" width="30px">
 
 ### About Me
+
 - ✨ I'm a Backend (on the way to be a Fullstack) Developer
 - 💼 I'm Currently Freelance in Several Companies
 
@@ -61,3 +62,8 @@
 </div>
 
 <!-- ========= End Markdown ========= -->
+
+<br />
+<br />
+
+[twitter]: https://twitter.com/onggolll
