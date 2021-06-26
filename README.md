@@ -6,7 +6,7 @@
 
 - ✨ I'm a Backend (on the way to be a Fullstack) Developer
 - 💼 I'm Currently Freelance in Several Companies
-- 🌱 I'm 
+- 🌱 I'm Currently Learning MERN (MongoDB, Express, ReactJ) Stack
 
 ### Reach Me At
 
