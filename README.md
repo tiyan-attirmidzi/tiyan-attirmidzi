@@ -10,6 +10,13 @@
 
 ### Reach Me At
 
+[![Icon Twitter](/assets/images/twitter.png "Twitter Account")](https://twitter.com/onggolll)
+[![Icon Instagram](/assets/images/instagram.png "Instagram Account")](https://instagram.com/tiyan.attirmidzi)
+[![Icon Dev](/assets/images/devto.png "Dev Account")](https://dev.to/tiyanattirmidzi)
+[![Icon LinkedIn](/assets/images/linkedin.png "LinkedIn Account")](https://instagram.com/tiyan.attirmidzi)
+[![Icon Gmail](/assets/images/gmail.png "Email Account")](mailto:tiyanattirmidzi20@gmail.com)
+[![Icon Web](/assets/images/world-wide-web.png "Personal Website")](https://tiyan-attirmidzi.github.io)
+
 <p align='center'>
     <a href="https://twitter.com/onggolll" target="_blank" style="text-decoration: none;">
         <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/twitter.svg?raw=true">
