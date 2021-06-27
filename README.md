@@ -41,9 +41,9 @@
 &nbsp;
 [![My Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram Account")][instagram]
 &nbsp;
-[![Icon Dev](https://img.shields.io/badge/Dev_to-0E0E0E?style=for-the-badge&logo=dev.to&logoColor=white)][devto]
+[![Icon Dev](https://img.shields.io/badge/Dev_to-0E0E0E?style=for-the-badge&logo=dev.to&logoColor=white "Dev Account")][devto]
 &nbsp;
-[![Icon LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn Account")][linkedin]
+[![Icon Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin Account")][linkedin]
 &nbsp;
 [![Icon Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email Account")][email]
 &nbsp;
