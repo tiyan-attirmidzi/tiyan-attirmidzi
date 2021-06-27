@@ -8,42 +8,7 @@
 - 💼 I'm Currently Freelance in Several Companies
 - 🌱 I'm Currently Learning MERN Stack
 
-### Reach Me At
-
-[![Icon Twitter](/assets/images/twitter.png "Twitter Account")](https://twitter.com/onggolll)
-[![Icon Instagram](/assets/images/instagram.png "Instagram Account")](https://instagram.com/tiyan.attirmidzi)
-[![Icon Dev](/assets/images/devto.png "Dev Account")](https://dev.to/tiyanattirmidzi)
-[![Icon LinkedIn](/assets/images/linkedin.png "LinkedIn Account")](https://instagram.com/tiyan.attirmidzi)
-[![Icon Gmail](/assets/images/gmail.png "Email Account")](mailto:tiyanattirmidzi20@gmail.com)
-[![Icon Web](/assets/images/world-wide-web.png "Personal Website")](https://tiyan-attirmidzi.github.io)
-
-<p align='center'>
-    <a href="https://twitter.com/onggolll" target="_blank" style="text-decoration: none;">
-        <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/twitter.svg?raw=true">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/tiyan.attirmidzi" target="_blank" style="text-decoration: none;">
-        <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/instagram.svg?raw=true">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://dev.to/tiyanattirmidzi" target="_blank">
-        <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/devto.svg?raw=true">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/tiyan-attirmidzi-223475156" target="_blank" style="text-decoration: none;">
-        <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/linkedin.svg?raw=true">
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:tiyanattirmidzi20@gmail.com" target="_blank" style="text-decoration: none;">
-        <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/gmail.svg?raw=true">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://tiyan-attirmidzi.github.io" target="_blank" style="text-decoration: none;">
-        <img height="30" src="https://github.com/tiyan-attirmidzi/tiyan-attirmidzi/blob/master/assets/images/world-wide-web.svg?raw=true">
-    </a>
-</p>
-
-### Github & Wakatime Stats
+### Github & Wakatime Stats <p></p>
 
 <div align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" style="text-decoration: none;">
@@ -70,9 +35,25 @@
     </a>
 </div>
 
+### Reach Me At <p></p>
+
+[![My Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "Twitter Account")][twitter]
+&nbsp;
+[![My Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram Account")][instagram]
+&nbsp;
+[![Icon Dev](https://img.shields.io/badge/Dev_to-0E0E0E?style=for-the-badge&logo=dev.to&logoColor=white)][devto]
+&nbsp;
+[![Icon LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn Account")][linkedin]
+&nbsp;
+[![Icon Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email Account")][email]
+&nbsp;
+[![Icon Web](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white "Personal Website")][website]
+
 <!-- ========= End Markdown ========= -->
 
-<br />
-<br />
-
 [twitter]: https://twitter.com/onggolll
+[instagram]: https://instagram.com/tiyan.attirmidzi
+[devto]: https://dev.to/tiyanattirmidzi
+[linkedin]: https://www.linkedin.com/in/tiyan-attirmidzi-223475156
+[email]: mailto:tiyanattirmidzi20@gmail.com
+[website]: https://tiyan-attirmidzi.github.io
