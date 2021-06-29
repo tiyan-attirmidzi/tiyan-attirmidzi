@@ -8,31 +8,10 @@
 - 💼 I'm Currently Freelance in Several Companies
 - 🌱 I'm Currently Learning MERN Stack
 
-### Github & Wakatime Stats <p></p>
+### Github Stats
 
-<div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" style="text-decoration: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" alt="Tiyan Attirmidzi's github stats" />
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyan-attirmidzi&show_icons=true&theme=react&layout=compact" style="text-decoration: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyan-attirmidzi&show_icons=true&theme=react&layout=compact" alt="Tiyan Attirmidzi's github most used" />
-    </a>
-</div>
-
-<p></p>
-
-<div align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=tiyan-attirmidzi&theme=react" style="text-decoration: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=tiyan-attirmidzi&theme=react" alt="Tiyan Attirmidzi's github streak stats" />
-    </a>
-</div>
-
-<p></p>
-
-<div align="center">
-    <a href="https://github-readme-stats.vercel.app/api/wakatime/?username=tiyanattirmidzi&show_icons=true&theme=react" style="text-decoration: none;">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=tiyanattirmidzi&show_icons=true&theme=react" alt="Tiyan Attirmidzi's wakatime stats" />
-    </a>
+<div style="text-align:center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" alt="Tiyan Attirmidzi's github stats">
 </div>
 
 ### Reach Me At <p></p>
