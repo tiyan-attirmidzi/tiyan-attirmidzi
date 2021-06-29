@@ -10,9 +10,9 @@
 
 ### Github Stats
 
-<div style="text-align:center">
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyan-attirmidzi&count_private=true&show_icons=true&theme=react" alt="Tiyan Attirmidzi's github stats">
-</div>
+</p>
 
 ### Reach Me At <p></p>
 
