@@ -16,17 +16,17 @@
 
 ### Reach Me At <p></p>
 
-[![My Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "Twitter Account")][twitter]
+[![My Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white 'Twitter Account')][twitter]
 &nbsp;
-[![My Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram Account")][instagram]
+[![My Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 'Instagram Account')][instagram]
 &nbsp;
-[![Icon Dev](https://img.shields.io/badge/Dev_to-0E0E0E?style=for-the-badge&logo=dev.to&logoColor=white "Dev Account")][devto]
+[![Icon Dev](https://img.shields.io/badge/Dev_to-0E0E0E?style=for-the-badge&logo=dev.to&logoColor=white 'Dev Account')][devto]
 &nbsp;
-[![Icon Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin Account")][linkedin]
+[![Icon Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'Linkedin Account')][linkedin]
 &nbsp;
-[![Icon Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email Account")][email]
+[![Icon Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 'Email Account')][email]
 &nbsp;
-[![Icon Web](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white "Personal Website")][website]
+[![Icon Web](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white 'Personal Website')][website]
 
 <!-- ========= End Markdown ========= -->
 
@@ -35,4 +35,4 @@
 [devto]: https://dev.to/tiyanattirmidzi
 [linkedin]: https://www.linkedin.com/in/tiyan-attirmidzi-223475156
 [email]: mailto:tiyanattirmidzi20@gmail.com
-[website]: https://tiyan-attirmidzi.github.io
+[website]: https://onggolt-dev.com/
