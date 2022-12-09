@@ -5,7 +5,7 @@
 ### About Me
 
 - ✨ I'm a Backend (on the way to be a Fullstack) Developer
-- 💼 I'm Currently Working at PT. Whalez Digital Teknologi as Backend Developer
+- 💼 I'm Currently Working at myDigiLearn as Backend Developer
 - 🌱 I'm Currently Learning Go-Lang
 
 ### Github Stats
