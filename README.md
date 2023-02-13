@@ -4,8 +4,8 @@
 
 ### About Me
 
-- ✨ I'm a Backend (on the way to be a Fullstack) Developer
-- 💼 I'm Currently Working at myDigiLearn as Backend Developer
+- ✨ I'm a Backend Developer
+- 💼 I'm Currently Working at ...
 - 🌱 I'm Currently Learning Go-Lang
 
 ### Github Stats
